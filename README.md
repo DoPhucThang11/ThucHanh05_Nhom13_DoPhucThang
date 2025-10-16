@@ -6,7 +6,7 @@ Tạo báo cáo về ứng dụng công nghệ số trong học tập bằng Goo
 Thiết kế infographic và video ngắn về lợi ích công nghệ số bằng Canva và CapCut, sử dụng tài nguyên miễn phí.
 
 Tạo trang HTML hiển thị infographic và video, quản lý toàn bộ file trên GitHub với giấy phép CC BY.
-# ## 📄 Bản quyền Nhiemvu1.1
+# 📄 Bản quyền Nhiemvu1.1
 - Nội dung văn bản tham khảo từ **Google Bard**.  
 - Hình ảnh từ **Unsplash (CC0)**.  
 - Tác phẩm này được chia sẻ theo **Giấy phép Creative Commons CC BY 4.0**.  

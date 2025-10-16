@@ -1,4 +1,11 @@
 # ThucHanh05_Nhom13_DoPhucThang
+# Bài thực hành gồm 3 phần:
+
+Tạo báo cáo về ứng dụng công nghệ số trong học tập bằng Google Docs, định dạng chuẩn và ghi nguồn bản quyền.
+
+Thiết kế infographic và video ngắn về lợi ích công nghệ số bằng Canva và CapCut, sử dụng tài nguyên miễn phí.
+
+Tạo trang HTML hiển thị infographic và video, quản lý toàn bộ file trên GitHub với giấy phép CC BY.
 # 🎥 Video Nhiemvu2.2
 
 👉 [Xem video trên Google Drive](https://drive.google.com/file/d/1g3QRDufJ1lx_dDnAoP9oqvYeP0FbyQT9/view?usp=drive_link)

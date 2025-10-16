@@ -25,3 +25,8 @@ Bạn có thể chia sẻ, chỉnh sửa, sử dụng video nếu ghi nguồn.
 © 2025 Tác giả
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 https://creativecommons.org/licenses/by/4.0/
+Bản quyền
+# Bản quyền Nhiemvu3.1
+Mã nguồn được hỗ trợ bởi GitHub Copilot.
+Giấy phép: Creative Commons Attribution 4.0 (CC BY 4.0)
+🔗 https://creativecommons.org/licenses/by/4.0/

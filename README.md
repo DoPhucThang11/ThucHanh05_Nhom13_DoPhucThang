@@ -15,9 +15,7 @@ Tạo trang HTML hiển thị infographic và video, quản lý toàn bộ file 
 # infographic Nhiemvu2.1
 Bản quyền: Infographic tạo bởi Canva AI, hình ảnh từ Unsplash (CC0).
  Cấp phép: CC BY 4.0 :https://creativecommons.org/licenses/by/4.0/
- # 🎥 Video Nhiemvu2.2
-
-👉 [Xem video trên Google Drive](https://drive.google.com/file/d/1g3QRDufJ1lx_dDnAoP9oqvYeP0FbyQT9/view?usp=drive_link)
+ # 🎥 Bản quyền Nhiemvu2.2
 
 📄 **Giấy phép:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
 Bạn có thể chia sẻ, chỉnh sửa, sử dụng video nếu ghi nguồn.
